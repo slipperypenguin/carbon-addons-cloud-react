@@ -20,9 +20,7 @@
   },
   "dependencies": {
     "classnames": "^2.2.5",
-    "prop-types": "^15.6.0"
-  },
-  "peerDependencies": {
+    "prop-types": "^15.6.0",
     "carbon-addons-cloud": "^1.6.3 || ^2.x",
     "carbon-components-react": "^5.51.9 || ^6.x",
     "react": "^15.3.2 || ^16.1.0"
