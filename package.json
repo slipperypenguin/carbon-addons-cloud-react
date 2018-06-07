@@ -1,5 +1,6 @@
 {
-  "name": "carbon-addons-cloud-react",
+  "name": "carbon-addons-cloud-react-agave",
+  "version": "1.1.4",
   "main": "lib/index.js",
   "license": "Apache-2",
   "files": [
